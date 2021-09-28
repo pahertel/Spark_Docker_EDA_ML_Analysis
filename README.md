@@ -1,5 +1,6 @@
 # Apache Spark, Docker, Exploratory Data Analysis (EDA), Machine Learning and Analysis
 
+### Summary
 Using Apache Spark (Pyspark) in a Docker container to do exploratory data analysis (EDA) and running a linear regression analysis generating a set of insights and recommendations looking at a dataset of used cars in the Indian market between 2018-2019.
 
 ### Docker:
