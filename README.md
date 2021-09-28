@@ -28,13 +28,13 @@ Pandas
 Numpy
 
 ### How to use Docker assuming you have Docker Desktop downloaded already:
-Create Docker image from Dockerfile:
-	Go to the Command Line or Bash
-	Go to directory of Dockerfile
-	Name and build docker image by typing and giving it a name
+1. Create Docker image from Dockerfile:
+	- Go to the Command Line or Bash
+	- Go to directory of Dockerfile
+	- Name and build docker image by typing and giving it a name
 		docker build -t <image_name> .
 
-	Run docker image:
-		In a command Line or Bash run
-			docker run -p 8888:8888 <image_name>
-		Then paste the URL in a browser
+2. Run docker image:
+	- In a command Line or Bash run
+		docker run -p 8888:8888 <image_name>
+	- Then paste the URL in a browser
