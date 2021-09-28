@@ -32,9 +32,9 @@ Numpy
 	- Go to the Command Line or Bash
 	- Go to directory of Dockerfile
 	- Name and build docker image by typing and giving it a name
-		docker build -t <image_name> .
+		- docker build -t <image_name> .
 
 2. Run docker image:
 	- In a command Line or Bash run
-		docker run -p 8888:8888 <image_name>
+		- docker run -p 8888:8888 <image_name>
 	- Then paste the URL in a browser
