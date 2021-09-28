@@ -22,10 +22,10 @@ Explanations of the model metrics with insights and recommendations from the dat
 The Jupyter Notebook is very clean with observations of the dataset and commenting on each part of the code.
 
 ### Libraries Used:
-Apache Spark and several of the functions and machine learning libraries
-Seaborn
-Pandas
-Numpy
+- Apache Spark and several of the functions and machine learning libraries
+- Seaborn
+- Pandas
+- Numpy
 
 ### How to use Docker assuming you have Docker Desktop downloaded already:
 1. Create Docker image from Dockerfile:
